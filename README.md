@@ -1,2 +1,4 @@
-# hello-jenkins
-Dummy repo to test jenkins intance.
+hello-jenkins
+=============
+
+My super sample app to test out Jenkins.
